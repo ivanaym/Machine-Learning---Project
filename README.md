@@ -1,1 +1,5 @@
 # Machine-Learning---Project
+
+This project focuses on analyzing and predicting smoke detection using machine learning models, particularly Logistic Regression and Support Vector Machine (SVC). By leveraging real-time sensor data, the project aims to classify fire alarm activations based on environmental factors such as temperature, humidity, and concentrations of gases like CO2, H2, and Ethanol. Early and accurate smoke detection plays a crucial role in mitigating fire hazards, saving lives, and minimizing damage. The project demonstrates high accuracy, with SVC achieving 99.99%, making it a reliable tool for real-world applications such as homes, offices, and industrial settings.
+
+Users can easily get started by cloning the repository, installing dependencies, and downloading the dataset. The project offers scripts for data preprocessing, training, and testing the models, making it accessible for users looking to implement a machine learning-based fire detection system. If any issues arise, users can seek help by opening an issue in the repository or contacting the project maintainers via email.
